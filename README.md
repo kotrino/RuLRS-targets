@@ -1,8 +1,9 @@
-# Fork Information
-This project is based on [https://github.com/ExpressLRS/targets.git](https://github.com/ExpressLRS/targets.git)
+# RuLRS-targets
+Проект основан на [https://github.com/ExpressLRS/targets.git](https://github.com/ExpressLRS/targets.git)
 
 ---
 
-This repository is for adding approved ExpressLRS hardware to the Configurator. Once a target is accepted and merged, it will immediately be available in the Configurator ready for use.
+Этот репозиторий предназначен для добавления одобренного оборудования ExpressLRS в Конфигуратор. После принятия и слияния целевого устройства оно сразу становится доступным для использования в Конфигураторе.
 
-All targets must go through an approval process before merging.  This requires a schematic review, hardware testing, and developer samples.  Manufacturers wishing to add targets should contact an ExpressLRS developer on discord https://discord.gg/expresslrs. It is recommended to do this very early in the design process.
+<!--Все целевые устройства должны пройти процесс одобрения перед слиянием. Это требует проверки схемы, тестирования оборудования и образцов для разработчиков. Производителям, желающим добавить целевые устройства, следует связаться с разработчиком RuLRS в Telegramm [](). Рекомендуется сделать это на самых ранних этапах процесса проектирования.
+-->
